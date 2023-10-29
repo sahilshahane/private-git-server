@@ -1,0 +1,2 @@
+- setup nginx auth (kubernetes level or docker level)
+- create a fastify lfs server for upload & download
